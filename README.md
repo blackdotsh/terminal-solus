@@ -13,7 +13,9 @@ There's a lot of debugging stuff I still have enabled since the code is still in
 - info
 - shutdown [host]
 - start [host]
+- reboot [host]
 - ls
 - exit/quit
 
+Requires curl and openssl for now, might need bc as the project develops.
 
